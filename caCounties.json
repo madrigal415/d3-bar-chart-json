@@ -1,0 +1,292 @@
+[
+    {
+        "id": 1,
+        "county": "Los Angeles County",
+        "population": 10039107
+    },
+    {
+        "id": 2,
+        "county": "San Diego County",
+        "population": 3338330
+    },
+    {
+        "id": 3,
+        "county": "Orange County",
+        "population": 3175692
+    },
+    {
+        "id": 4,
+        "county": "Riverside County",
+        "population": 2470546
+    },
+    {
+        "id": 5,
+        "county": "San Bernardino County",
+        "population": 2180085
+    },
+    {
+        "id": 6,
+        "county": "Santa Clara County",
+        "population": 1927852
+    },
+    {
+        "id": 7,
+        "county": "Alameda County",
+        "population": 1671329
+    },
+    {
+        "id": 8,
+        "county": "Sacramento County",
+        "population": 1552058
+    },
+    {
+        "id": 9,
+        "county": "Contra Costa County",
+        "population": 1153526
+    },
+    {
+        "id": 10,
+        "county": "Fresno County",
+        "population": 999101
+    },
+    {
+        "id": 11,
+        "county": "Kern County",
+        "population": 900202
+    },
+    {
+        "id": 12,
+        "county": "San Francisco County",
+        "population": 881549
+    },
+    {
+        "id": 13,
+        "county": "Ventura County",
+        "population": 846006
+    },
+    {
+        "id": 14,
+        "county": "San Mateo County",
+        "population": 766573
+    },
+    {
+        "id": 15,
+        "county": "San Joaquin County",
+        "population": 762148
+    },
+    {
+        "id": 16,
+        "county": "Stanislaus County",
+        "population": 550660
+    },
+    {
+        "id": 17,
+        "county": "Sonoma County",
+        "population": 494336
+    },
+    {
+        "id": 18,
+        "county": "Tulare County",
+        "population": 466195
+    },
+    {
+        "id": 19,
+        "county": "Solano County",
+        "population": 447643
+    },
+    {
+        "id": 20,
+        "county": "Santa Barbara County",
+        "population": 446499
+    },
+    {
+        "id": 21,
+        "county": "Monterey County",
+        "population": 434061
+    },
+    {
+        "id": 22,
+        "county": "Placer County",
+        "population": 398329
+    },
+    {
+        "id": 23,
+        "county": "San Luis Obispo County",
+        "population": 283111
+    },
+    {
+        "id": 24,
+        "county": "Merced County",
+        "population": 277680
+    },
+    {
+        "id": 25,
+        "county": "Santa Cruz County",
+        "population": 273213
+    },
+    {
+        "id": 26,
+        "county": "Marin County",
+        "population": 258826
+    },
+    {
+        "id": 27,
+        "county": "Yolo County",
+        "population": 220500
+    },
+    {
+        "id": 28,
+        "county": "Butte County",
+        "population": 219186
+    },
+    {
+        "id": 29,
+        "county": "El Dorado County",
+        "population": 192843
+    },
+    {
+        "id": 30,
+        "county": "Imperial County",
+        "population": 181215
+    },
+    {
+        "id": 31,
+        "county": "Shasta County",
+        "population": 180080
+    },
+    {
+        "id": 32,
+        "county": "Madera County",
+        "population": 157327
+    },
+    {
+        "id": 33,
+        "county": "Kings County",
+        "population": 152940
+    },
+    {
+        "id": 34,
+        "county": "Napa County",
+        "population": 137744
+    },
+    {
+        "id": 35,
+        "county": "Humboldt County",
+        "population": 135558
+    },
+    {
+        "id": 36,
+        "county": "Nevada County",
+        "population": 99755
+    },
+    {
+        "id": 37,
+        "county": "Sutter County",
+        "population": 96971
+    },
+    {
+        "id": 38,
+        "county": "Mendocino County",
+        "population": 86749
+    },
+    {
+        "id": 39,
+        "county": "Yuba County",
+        "population": 78668
+    },
+    {
+        "id": 40,
+        "county": "Tehama County",
+        "population": 65084
+    },
+    {
+        "id": 41,
+        "county": "Lake County",
+        "population": 64386
+    },
+    {
+        "id": 42,
+        "county": "San Benito County",
+        "population": 62808
+    },
+    {
+        "id": 43,
+        "county": "Tuolumne County",
+        "population": 54478
+    },
+    {
+        "id": 44,
+        "county": "Calaveras County",
+        "population": 45905
+    },
+    {
+        "id": 45,
+        "county": "Siskiyou County",
+        "population": 43539
+    },
+    {
+        "id": 46,
+        "county": "Amador County",
+        "population": 39752
+    },
+    {
+        "id": 47,
+        "county": "Lassen County",
+        "population": 30573
+    },
+    {
+        "id": 48,
+        "county": "Glenn County",
+        "population": 28393
+    },
+    {
+        "id": 49,
+        "county": "Del Norte County",
+        "population": 27812
+    },
+    {
+        "id": 50,
+        "county": "Colusa County",
+        "population": 21547
+    },
+    {
+        "id": 51,
+        "county": "Plumas County",
+        "population": 18807
+    },
+    {
+        "id": 52,
+        "county": "Inyo County",
+        "population": 18039
+    },
+    {
+        "id": 53,
+        "county": "Mariposa County",
+        "population": 17203
+    },
+    {
+        "id": 54,
+        "county": "Mono County",
+        "population": 14444
+    },
+    {
+        "id": 55,
+        "county": "Trinity County",
+        "population": 12285
+    },
+    {
+        "id": 56,
+        "county": "Modoc County",
+        "population": 8841
+    },
+    {
+        "id": 57,
+        "county": "Sierra County",
+        "population": 3005
+    },
+    {
+        "id": 58,
+        "county": "Alpine County",
+        "population": 1129
+    }
+]

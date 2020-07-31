@@ -1,0 +1,14 @@
+body {
+    background:salmon;
+}
+
+#chart {
+    background:white;
+    margin:20px 10vw;
+
+}
+
+.h-bar {
+    background:steelblue;
+    padding: 3px 0;
+}
